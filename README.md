@@ -19,9 +19,7 @@ A simple React.js web app to securely store and manage passwords locally using b
 1. Clone the repo  
 2. Run `npm create vite@latest`  
 3. Run `npm run dev`  
-4. Open [http://localhost:3000](http://localhost:3000) in your browser  
-
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Contact
 Santosh Ashok Naik — [GitHub](https://github.com/Santosh091002)
-
