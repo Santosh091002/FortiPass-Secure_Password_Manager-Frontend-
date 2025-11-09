@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.nav-btn {
+  @apply transform hover:scale-105 transition duration-200 bg-[#e4e4e4] text-[#289F4C] hover:bg-[#289F4C] hover:text-white py-2 px-4 flex items-center justify-center rounded-3xl active:scale-100;
+}
+
+.input {
+  @apply rounded-3xl py-1 px-4 text-[0.9rem] bg-[#ffffff] text-[#2C3E50]  shadow-md outline-none ring-1 ring-offset-2 focus:ring-[#289F4C]
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
